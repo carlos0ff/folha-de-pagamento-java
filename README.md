@@ -12,8 +12,6 @@
   <img src="image/banner.png" alt="Folha de Pagamento Deitel" style="width: 100%; max-width: 900px;" />
 </div>
 
-
-
 <p align="center">
   <strong>Folha de Pagamento Deitel</strong> é uma aplicação desenvolvida em <strong>Java puro</strong>, inspirada nos exercícios do livro 
   <strong>Java: Como Programar</strong>, de Deitel & Deitel.
